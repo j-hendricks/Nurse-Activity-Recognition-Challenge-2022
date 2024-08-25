@@ -3,7 +3,7 @@ Python, Pandas, Matplotlib, Jupyter Notebook
 
 ## Learn More About the Competition
 
-[main website](https://abc-research.github.io/challenge2022/)
+[Main Website](https://abc-research.github.io/challenge2022/)
 
 ## Competition Results
 
